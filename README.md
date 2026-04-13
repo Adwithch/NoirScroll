@@ -16,7 +16,7 @@
 [![PWA Ready](https://img.shields.io/badge/PWA-Ready-5A0FC8?style=flat-square&logo=pwa&logoColor=white)](https://web.dev/progressive-web-apps/)
 [![License](https://img.shields.io/badge/License-Apache_2.0-22c55e?style=flat-square)](./LICENSE)
 
-![NoirScroll Preview](https://picsum.photos/seed/noirscroll/1200/500)
+![NoirScroll Preview](github.com/Adwithch/NoirScroll/blob/main/preview.png?raw=true)
 
 ---
 
